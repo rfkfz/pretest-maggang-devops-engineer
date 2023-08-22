@@ -12,6 +12,21 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+1. Penggabungan Development dan Operations dengan tujuan mengurangi resiko kesalahan pada development, testing dan deploy.
+
+2. kumpulan komponen software maupun hardware yang membentuk lingkungan informasi.
+
+3. Service provider.
+Contoh implementasi: Server di game online, Database Server seperti MySQL.
+
+4. penting untuk Menguji aplikasi dalam development sebelum deploy.
+
+5. Virtualisasi : bisa menjalankan 2 OS, Container: Pembagian kernel host dalam OS host yang sama.
+
+6. karena Cepat dan ringan kemudian memungkinkan aplikasi untuk berjalan dalam lingkungan yang aman. Ini mengurangi potensi benturan dan masalah keamanan.
+
+7. praktik mengelola dan mengotomatiskan proses penerapan, penyebaran, skala, dan operasi container secara keseluruhan.
+
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
